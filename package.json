@@ -1,6 +1,6 @@
 {
   "name": "@mamodesaebsaad/image-to-base64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Conversion of image to base64 and vice-versa",
   "main": "./lib/index.js",
   "scripts": {
