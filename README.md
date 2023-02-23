@@ -4,10 +4,12 @@ This package convert images of type png, jpg, jpeg and svg to base64 and vice ve
 ### Instructions
 
 - To install this package
-    `npm install image-to-base64`
+    ``` npm install image-to-base64 ```
 
 - Then in your file import the module
-    `import { convertImageToBase64, convertBase64ToImage } from 'image-to-base64';`
+    ```
+    import { convertImageToBase64, convertBase64ToImage } from 'image-to-base64';
+    ```
 
 - To convert image to base64
     ```   
