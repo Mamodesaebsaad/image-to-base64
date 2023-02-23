@@ -14,6 +14,11 @@
     "image-conversion"
   ],
   "author": "Mamode Saeb Saad",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mamodesaebsaad/image-to-base64.git"
+  },
+  
   "license": "ISC",
   "dependencies": {
     "typescript": "^4.9.5"
