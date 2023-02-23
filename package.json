@@ -1,5 +1,5 @@
 {
-  "name": "@ms/image-to-base64",
+  "name": "@mamodesaebsaad/image-to-base64",
   "version": "1.0.0",
   "description": "Conversion of image to base64 and vice-versa",
   "main": "./lib/index.js",
