@@ -1,0 +1,21 @@
+{
+  "name": "image-to-base64",
+  "version": "1.0.0",
+  "description": "Conversion of image to base64 and vice-versa",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "ts-node ./index.ts",
+    "tsc": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json"
+  },
+  "keywords": [
+    "base64",
+    "nodejs",
+    "image-conversion"
+  ],
+  "author": "Mamode Saeb Saad",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
